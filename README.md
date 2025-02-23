@@ -8,10 +8,10 @@ In this repository, we have the following folders:
    2. **phi02.R**,**phi05.R**,**phi1.R**: Code for the proposed method under different values of \( \phi \).
    3. **results.R**: Code for computing the results.
    4. **negative correlation (rho smaller than zero)**
-      a. **stationary data generation.R**: Generating data for $C_1$ (stationary) by setting different parameters \( c \) and \( \phi \) according to Table 1, based on **seed.RData**. 
-      b. **nonstationary data generation.R**: Generating data for $C_3$ (nonstationary) by setting different parameters \( c \) and \( \phi \) according to Table 1, based on **seed.RData**. 
-      c. **anisotropy data generation.R**: Generating data for $C_2$ (anisotropy) by setting different parameters \( c \) and \( \phi \) according to Table 1, based on **seed.RData**. 
-      d. **seed.RData**:
+      1. **stationary data generation.R**: Generating data for $C_1$ (stationary) by setting different parameters \( c \) and \( \phi \) according to Table 1, based on **seed.RData**. 
+      2. **nonstationary data generation.R**: Generating data for $C_3$ (nonstationary) by setting different parameters \( c \) and \( \phi \) according to Table 1, based on **seed.RData**. 
+      3. **anisotropy data generation.R**: Generating data for $C_2$ (anisotropy) by setting different parameters \( c \) and \( \phi \) according to Table 1, based on **seed.RData**. 
+      4. **seed.RData**:
 2. simualtion/Figures/code
    1. **coorp.R**:
    2. **fig_coorp_beta0-2 and MSE.R**:
