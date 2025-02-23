@@ -28,4 +28,4 @@ In this repository, we have the following folders:
    3. **data analysis.RData**:
    4. **sp+**:
    5. **fig_semivariance.R**:
-   6. **fig_stdP and StdT.R**:
+   6. **fig_stdP and stdT.R**:
