@@ -4,4 +4,11 @@ In spatial regression analysis, the confounding between fixed and random effects
 ## Code
 In this repository, we have the following folders:
 1. simulation
-2. data analysis
+   **Proposed method code**
+   1. **seed.RData**:
+   2. **data generation**:
+   3. **phi02**,**phi05**,**phi1**:
+   4. **results**:
+   5. **negative correlation (rho smaller than zero)**:
+      a. ****
+3. data analysis
